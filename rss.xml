@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Apparently Times</title>
+    <link>https://www.theapparentlytimes.com/</link>
+    <description>Satirical newspaper from Gainesville, Florida. We reported it first. We also made it up.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2026 12:00:00 -0400</lastBuildDate>
+    <atom:link href="https://www.theapparentlytimes.com/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://www.theapparentlytimes.com/images/logo.png</url>
+      <title>The Apparently Times</title>
+      <link>https://www.theapparentlytimes.com/</link>
+      <width>600</width>
+      <height>60</height>
+    </image>
+    <item>
+      <title>OpenAI Ends Cursor Access After SpaceX Deal; Promises Affected Developers Support Group. Asks It To Take Notes</title>
+      <link>https://www.theapparentlytimes.com/cursor.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/cursor.html</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>Technology</category>
+      <category>Satire</category>
+      <description>Satire: OpenAI ends Cursor access after a SpaceX deal and promises affected developers a support group — then asks it to take notes.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/cursor.jpg" type="image/jpeg" length="281808" />
+    </item>
+    <item>
+      <title>New Publication Launches With Full Staff of Two People and One Model That Will Not Stop Pitching Headlines</title>
+      <link>https://www.theapparentlytimes.com/launch.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/launch.html</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>The Newsroom</category>
+      <category>Satire</category>
+      <description>Satire: The Apparently Times launches in Gainesville with a staff of two people and one model that will not stop pitching headlines.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/launch.jpg" type="image/jpeg" length="43449" />
+    </item>
+    <item>
+      <title>Florida Schools Instructed To Call Lake Ontario “Lake America,” Teachers Ask If Hudson River Is Now Also Involved</title>
+      <link>https://www.theapparentlytimes.com/lake-america.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/lake-america.html</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>Education</category>
+      <category>Satire</category>
+      <description>Satire: Florida schools are told to call Lake Ontario “Lake America,” and teachers ask whether the Hudson River is next.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/lake-america.jpg" type="image/jpeg" length="69669" />
+    </item>
+    <item>
+      <title>National Hurricane Center Clarifies Tropical Storm Dolly Has Nothing To Do With Dolly Parton, Country Immediately Unconvinced</title>
+      <link>https://www.theapparentlytimes.com/dolly.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/dolly.html</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>Weather</category>
+      <category>Satire</category>
+      <description>Satire: The National Hurricane Center clarifies Tropical Storm Dolly is unrelated to Dolly Parton. The country is immediately unconvinced.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/dolly.jpg" type="image/jpeg" length="65385" />
+    </item>
+    <item>
+      <title>Grand Theft Auto VI Preview Lands; Employers Quietly Mark September As Lost</title>
+      <link>https://www.theapparentlytimes.com/gta.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/gta.html</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>Business</category>
+      <category>Satire</category>
+      <description>Satire: Grand Theft Auto VI preview footage lands and employers quietly mark September as a productivity loss.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/gta.jpg" type="image/jpeg" length="65748" />
+    </item>
+    <item>
+      <title>Church Adds 8:15 Service For Members Who Have To Leave The 9:00 Service Early</title>
+      <link>https://www.theapparentlytimes.com/church.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/church.html</guid>
+      <pubDate>Fri, 28 Aug 2026 12:00:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>Religion</category>
+      <category>Satire</category>
+      <description>Satire: A Gainesville church adds an 8:15 service for members who historically leave the 9:00 service early for Publix.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/church.jpg" type="image/jpeg" length="58618" />
+    </item>
+  </channel>
+</rss>

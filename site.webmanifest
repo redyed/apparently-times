@@ -1,0 +1,22 @@
+{
+  "name": "The Apparently Times",
+  "short_name": "Apparently Times",
+  "description": "Satirical newspaper from Gainesville, Florida. We reported it first. We also made it up.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fbf9f5",
+  "theme_color": "#1c1917",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/og-default.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg"
+    }
+  ]
+}
