@@ -5,7 +5,7 @@
     <link>https://www.theapparentlytimes.com/</link>
     <description>Satirical newspaper from Gainesville, Florida. We reported it first. We also made it up.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Aug 2026 14:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:50:00 -0400</lastBuildDate>
     <atom:link href="https://www.theapparentlytimes.com/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://www.theapparentlytimes.com/images/logo.png</url>
@@ -14,6 +14,17 @@
       <width>600</width>
       <height>60</height>
     </image>
+    <item>
+      <title>Claude Permanently Raises Weekly Limits By Giving Users Less Than They Have Today; Says It Should Feel Like More</title>
+      <link>https://www.theapparentlytimes.com/claude.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/claude.html</guid>
+      <pubDate>Sat, 29 Aug 2026 14:50:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>Technology</category>
+      <category>Satire</category>
+      <description>The increase is smaller than the increase they already gave. They would like this filed under exciting.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/claude.jpg" type="image/jpeg" length="113401" />
+    </item>
     <item>
       <title>Billie Eilish Sells Gold Nude Of Herself For $165, Asks Why The Billionaires Won’t Give Anything Away</title>
       <link>https://www.theapparentlytimes.com/eilish.html</link>
