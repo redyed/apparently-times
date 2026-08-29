@@ -5,7 +5,7 @@
     <link>https://www.theapparentlytimes.com/</link>
     <description>Satirical newspaper from Gainesville, Florida. We reported it first. We also made it up.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Aug 2026 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:00:00 -0400</lastBuildDate>
     <atom:link href="https://www.theapparentlytimes.com/rss.xml" rel="self" type="application/rss+xml" />
     <image>
       <url>https://www.theapparentlytimes.com/images/logo.png</url>
@@ -14,6 +14,17 @@
       <width>600</width>
       <height>60</height>
     </image>
+    <item>
+      <title>Billie Eilish Sells Gold Nude Of Herself For $165, Asks Why The Billionaires Won’t Give Anything Away</title>
+      <link>https://www.theapparentlytimes.com/eilish.html</link>
+      <guid isPermaLink="true">https://www.theapparentlytimes.com/eilish.html</guid>
+      <pubDate>Sat, 29 Aug 2026 14:00:00 -0400</pubDate>
+      <dc:creator>The Apparently Times</dc:creator>
+      <category>Culture</category>
+      <category>Satire</category>
+      <description>The bottle is on its knees. The land is stolen. Checkout is still open.</description>
+      <enclosure url="https://www.theapparentlytimes.com/images/eilish.jpg" type="image/jpeg" length="109779" />
+    </item>
     <item>
       <title>OpenAI Ends Cursor Access After SpaceX Deal; Promises Affected Developers Support Group. Asks It To Take Notes</title>
       <link>https://www.theapparentlytimes.com/cursor.html</link>

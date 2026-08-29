@@ -134,6 +134,14 @@ nav a:hover { text-decoration: underline; }
   margin-bottom: 14px;
 }
 
+.dek {
+  font-size: 20px;
+  line-height: 1.4;
+  font-style: italic;
+  color: var(--ink);
+  margin: 0 0 18px;
+}
+
 p {
   font-size: 18px;
   line-height: 1.55;
