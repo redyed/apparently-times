@@ -137,7 +137,6 @@ p {
 }
 
 .story { padding-bottom: 8px; }
-.story.wide { grid-column: 1 / -1; }
 
 footer {
   margin-top: 48px;
@@ -153,6 +152,17 @@ footer {
 .article {
   max-width: 720px;
   margin: 0 auto;
+}
+
+.hero, .thumb {
+  margin: 12px 0 16px;
+}
+
+.hero img, .thumb img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border: 1px solid var(--rule);
 }
 
 .back {
